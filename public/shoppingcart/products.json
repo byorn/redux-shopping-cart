@@ -1,0 +1,9 @@
+[{"productId":"1","productName":"Effective Java 3rd Edition", "price":35.00, "imageUrl":"/shoppingcart/book1.jpg"},
+ {"productId":"2","productName":"OCP Java 8 Study Guide", "price":30.00, "imageUrl":"/shoppingcart/book2.jpg"},
+ {"productId":"3","productName":"Test Driven Java Development", "price":50.00, "imageUrl":"/shoppingcart/book3.jpg"},
+  {"productId":"4","productName":"Reactive Programming With Java 9", "price":40.00, "imageUrl":"/shoppingcart/book4.jpg"},
+  {"productId":"5","productName":"Clean Code", "price":35.00, "imageUrl":"/shoppingcart/book5.jpg"},
+  {"productId":"6","productName":"Clean Architecture", "price":60.00, "imageUrl":"/shoppingcart/book6.jpg"},
+  {"productId":"7","productName":"Java 8 in Action", "price":50.00, "imageUrl":"/shoppingcart/book7.jpg"}
+
+]

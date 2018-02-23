@@ -1,0 +1,8 @@
+[{"productId":"1","productName":"Effective Java 3rd Edition", "stock":40},
+ {"productId":"2","productName":"OCP Java 8 Study Guide", "stock":40},
+ {"productId":"3","productName":"Test Driven Java Development", "stock":40},
+  {"productId":"4","productName":"Reactive Programming With Java 9", "stock":40},
+  {"productId":"5","productName":"Clean Code",  "stock":40},
+  {"productId":"6","productName":"Clean Architecture",  "stock":40},
+  {"productId":"7","productName":"Java 8 in Action", "stock":40}
+]
